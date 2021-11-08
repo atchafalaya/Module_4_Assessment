@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "address": "14 foot flatbottom boat",
+    "price": 2900,
+    "imageURL" : "https://images.crestliner.com/images/categories/boat-main/large/boat-main_152303.jpg"
+  },
+  {
+    "id": 2,
+    "address": "Catalina Sailboat",
+    "price": 29000,
+    "imageURL" : "https://masseyyacht.com/wp-content/uploads/2019/10/385-Catalina-min.jpg"
+  },
+  {
+    "id": 3,
+    "address": "USS South Dakota",
+    "price": 29000000,
+    "imageURL" : "https://upload.wikimedia.org/wikipedia/commons/e/e6/USS_South_Dakota_%28BB-57%29_underway_at_high_speed_during_the_Battle_of_the_Santa_Cruz_Islands_on_26_October_1942.jpg"
+  }
+]
