@@ -1,4 +1,4 @@
-const houses =require('./server/db.json')
+const houses =require('./db.json')
 let houseId = 4
 
 module.exports = {
